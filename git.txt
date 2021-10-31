@@ -1,0 +1,7 @@
+Regular command: git commit, push, fetch, pull
+Git merge, pull from another branch, merge fast forward vs non-ff vs merge squash
+Git checkout, checkout branch, checkout revision, create a new branch
+Git stash, stash apply, stash pop
+Git remote
+Git reset, reset soft, reset hard
+Git push force
