@@ -1,0 +1,4 @@
+parse: JSON -> javascrip
+stringify javascript -> JSON
+Sync : Đồng bộ
+Áync : Bâts đồng bộ

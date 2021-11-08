@@ -5,3 +5,12 @@ Git stash, stash apply, stash pop
 Git remote
 Git reset, reset soft, reset hard
 Git push force
+
+ElementType.TYPE - Cho phép chú thích trên Class, interface, enum, annotation.
+ElementType.FIELD - Cho phép chú thích trường (field), bao gồm cả các hằng số enum.
+ElementType.METHOD - Cho phép chú thích trên method.
+ElementType.PARAMETER - Cho phép chú thích trên parameter
+ElementType.CONSTRUCTOR - Cho phép chú thích trên constructor
+ElementType.LOCAL_VARIABLE - Cho phép chú thích trên biến địa phương.
+ElementType.ANNOTATION_TYPE - Cho phép chú thích trên Annotation khác
+ElementType.PACKAGE - Cho phép chú thích trên package.

@@ -1,0 +1,20 @@
+$ composer create-project --prefer-dist laravel/laravel api
+Auth:
+composer require laravel/ui:^2.4
+php artisan ui vue --auth
+npm install --save-dev cross-env
+cai jwt : composer require tymon/jwt-auth:dev-develop --prefer-source
+pulish file : php artisan vendor:publish --provider="Tymon\JWTAuth\Providers\LaravelServiceProvider"
+tao key: php artisan jwt:secret
+\Illuminate\Session\Middleware\StartSession::class,
+providers' => [
+   ...
+'Tymon\JWTAuth\Providers\LaravelServiceProvider',
+],
+'aliases' => [
+    ...
+    'JWTAuth' => Tymon\JWTAuth\Facades\JWTAuth::class,
+     'JWTFactory' => Tymon\JWTAuth\Facades\JWTFactory::class,
+],
+RewriteEngine On 
+RewriteRule ^(.*)$ public/$1 [L]

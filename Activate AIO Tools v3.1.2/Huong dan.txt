@@ -1,0 +1,7 @@
+1. Kết nối Internet
+
+2. Chạy file "Activate AIO Tools v3.1.2 by Savio.cmd" bằng quyền Administrator như sau:
+
+Click chuột phải vào file "Activate AIO Tools v3.1.2 by Savio.cmd" --> run by Administrator --> Nhấn phím chữ O --> Nhấn phím 1 và chờ khoảng 1 phút active bản quyền Windows và Office.
+
+Done!

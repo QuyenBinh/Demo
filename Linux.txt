@@ -1,0 +1,14 @@
+-a : để hiện thị thêm file, thư mục ẩn có trong folder ( Trong linux các file và thư mục đặt tên có dấu . ở đầu là các file ẩn sẽ không hiển thị ra giao diện của người dùng )
+-l : hiển thị thêm các thông tin của file : Quyền, user, group, kích thước, ngày sửa đổi gần nhất
+Ở trên lệnh ls -la để hiện thị các file và thư mục có trong thư mục gốc. Và bạn cũng có thể xem thông tin duy nhất 1 file bằng cách để tên file hoặc folder trong tham số lệnh.
+ls cũng hỗ trợ wildcard dùng ký tự * đại diện cho các ký tự khác. Ví dụ muốn liệt kê các file .conf trong thư mục etc ta dùng lệnh : ls -la /etc/*.conf
+ls : Hiển thị các file hệ thống
+pwd : xem thư mục hiện tại
+bien moi: export [tên biến]="value" 
+script: lưu kết quả in ra màn hình vào 1 file
+find / -mtime 50 : tệp được sửa trong 50 ngày qua
+find / -atime 50 : tệp được truy cập trong 50 ngày qua
+find / -mtime +50 -mtime -100: tệp được sửa đổi trong 50->100 ngày qua
+find / -cmin -60 : tệp được sửa đổi trong 1 giờ qua
+find / -mmin -60 : tệp được sửa đổi trong 1 giờ qua
+find / -amin -60: tệp được truy cập trong 1h qua

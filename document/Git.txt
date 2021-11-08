@@ -1,0 +1,11 @@
+git init: Tao project
+git add : Them foder
+git commit -m "Status" : Luu lai thay doi
+git show :
+git diff : xem da thay doi nhung gi
+git log : xem trang thai
+git push origin master
+git push origin HEAD:maste
+Su dung DB: use Illuminate\Support\Facades\DB;
+Prefix : gom tuyen duong
+https://github.com/QuyenBinh/App.git

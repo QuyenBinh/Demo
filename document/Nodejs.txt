@@ -1,0 +1,19 @@
+npm i nodemon --save-dev
+npmjs
+morgan
+Server Side Rendering
+Client Side Rendering
+JavaScript Object Notation
+npm scss
+req : request
+res : respon
+query: req.query.dữ liệu
+post: req.body
+thư viện body-parser
+pretier : Sửa fomat code
+Get: yêu cầu server trả lại dữ liệu
+Post: gửi dữ liệu lên server yêu cầu server lưu lại dữ liệu
+Put: chỉnh sửa dữ liệu
+patch:sủa từng field
+option :
+head : 
