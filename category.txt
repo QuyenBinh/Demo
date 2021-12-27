@@ -1,0 +1,75 @@
+Tien Hiep
+Kiem Hiep
+Ngon Tinh
+Do thi
+Quan Truong
+Vong Du
+Khoa Huyen
+Huyen Huyen
+Di Gioi
+Di Nang
+Quan Su
+Lich Su
+Xuyen Khong
+Trong Sinh
+Trinh Tham
+Tham Hiem
+Linh Di
+Truyen Sac
+Truyen Nguoc
+Truyen Sung
+Truyen Cung Dau
+Truyen Nu Cuong
+Truyen Gia Dau
+Dong Phuong
+Dam My
+Bach Hop
+Hai Huoc
+Dien Van
+Co Dai
+Mat The
+Truyen Teen
+Phuong Tay
+Nu Phu
+Light Novel
+Viet Nam
+Doan Van
+Truyen Khac
+
+Insert into category(title) values ('Kiem Hiep');
+Insert into category(title) values ('Ngon Tinh');
+Insert into category(title) values ('Do thi');
+Insert into category(title) values ('Quan Truong');
+Insert into category(title) values ('Vong Du');
+Insert into category(title) values ('Khoa Huyen');
+Insert into category(title) values ('Huyen Huyen');
+Insert into category(title) values ('Di Gioi');
+Insert into category(title) values ('Di Nang');
+Insert into category(title) values ('Quan Su');
+Insert into category(title) values ('Lich Su');
+Insert into category(title) values ('Xuyen Khong');
+Insert into category(title) values ('Trong Sinh');
+Insert into category(title) values ('Trinh Tham');
+Insert into category(title) values ('Tham Hiem');
+Insert into category(title) values ('Linh Di');
+Insert into category(title) values ('Truyen Sac');
+Insert into category(title) values ('Truyen Nguoc');
+Insert into category(title) values ('Truyen Sung');
+Insert into category(title) values ('Truyen Cung Dau');
+Insert into category(title) values ('Truyen Nu Cuong');
+Insert into category(title) values ('Truyen Gia Dau');
+Insert into category(title) values ('Dong Phuong');
+Insert into category(title) values ('Dam My');
+Insert into category(title) values ('Bach Hop');
+Insert into category(title) values ('Hai Huoc');
+Insert into category(title) values ('Dien Van');
+Insert into category(title) values ('Co Dai');
+Insert into category(title) values ('Mat The');
+Insert into category(title) values ('Truyen Teen');
+Insert into category(title) values ('Phuong Tay');
+Insert into category(title) values ('Nu Phu');
+Insert into category(title) values ('Light Novel');
+Insert into category(title) values ('Viet Nam');
+Insert into category(title) values ('Doan Van');
+Insert into category(title) values ('Truyen Khac');
+
