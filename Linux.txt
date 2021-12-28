@@ -12,3 +12,5 @@ find / -mtime +50 -mtime -100: tệp được sửa đổi trong 50->100 ngày q
 find / -cmin -60 : tệp được sửa đổi trong 1 giờ qua
 find / -mmin -60 : tệp được sửa đổi trong 1 giờ qua
 find / -amin -60: tệp được truy cập trong 1h qua
+git status la cai gi????
+co len nao!!!!
