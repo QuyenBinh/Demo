@@ -1,5 +1,0 @@
-select * from images_verify, system_param sp where clock_status = 'FAIL' and (CURRENT_DATE - cast(time_verify as date)) > 30
-"SELECT * FROM images_verify iv WHERE iv.clock_Status = :clockStatus and (CURRENT_DATE - cast(iv.time_verify as date)) >= :value"
-/error/_2021-01-22T20_51_39_0.0.jpg
-e36b0739-498d-4333-aac6-1c8990859b8d
-fe2e0161-2ed0-41bf-83c4-f361b4650d3e
